@@ -1,0 +1,18 @@
+site_name: GovHack SOPs
+
+use_directory_urls: false
+
+theme:
+  name: material
+  
+nav:
+  - "home": index.md
+  - "Option 1 ": "sops/Accessing Cloud Foundry Logging and Metrics Documentation.md"
+  - "Option 2 ": "sops/Accessing Cloud Foundry Logging and Metrics.html"
+  - "Option 3 ": "sops/What to click Wed Jun 11 2025.md"
+  - "Option 4 ": "sops/what-to-click-.pdf"
+  - "Option 5 ": "sops/What to click Wed Jun.html"
+  - "Option 6 ": "sops/gdrive-file.md"
+    
+plugins:
+  - search
